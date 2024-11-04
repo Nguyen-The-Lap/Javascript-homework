@@ -1,0 +1,34 @@
+.Name{
+    margin-left: 150px;
+}
+
+#inputInterger1{
+    margin-left: 200px;
+    display: block;
+}
+
+#inputInterger2{
+    margin-left: 200px;
+    display: block;
+}
+
+.result{
+    background-color: aquamarine;
+    padding: 100px;
+}
+
+/* .sum{
+
+}
+
+.sub{
+    
+}
+
+.mul{
+    
+}
+
+.div{
+    
+} */
